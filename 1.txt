@@ -1,5 +1,4 @@
 Welcome to GIT - Under Developer Brach
 Git is one of Version Control Softwrae.
 GitHub is a web server
-
 Pull Request --> Take some changes from particular branch and bring them to another branch
